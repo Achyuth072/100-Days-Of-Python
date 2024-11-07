@@ -1,3 +1,3 @@
-# Day 4 Project
+# Rock Paper Scissors
 
-Description of the project for Day 4.
+You are going to build a Rock, Paper, Scissors game. You will need to use what you have learnt about randomisation and Lists to achieve this.
